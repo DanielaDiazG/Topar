@@ -1,4 +1,4 @@
-import Propiedad from "./Propiedad"
+import Propiedad from "../Propiedad"
 
 class Apartamento extends Propiedad{
     constructor(){
